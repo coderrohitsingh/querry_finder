@@ -1,1 +1,0 @@
-# querry_finder
